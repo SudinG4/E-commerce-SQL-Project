@@ -12,6 +12,12 @@ The analysis covers four stages: funnel volume, conversion rates, traffic source
 - Explore the purchase journey of the viewers on the website
 - Answer the business-questions crafted on real world scenario
 
+## Tools Use
+  SQL - MySQL Workbench
+
+## SQL Skills Used: Joins, CTEs, aggregate functions, CASE statements, window functions, date/time functions, subqueries, and data quality checks.
+
+
 ## Key Questions Answered
 
 1. How many unique customers reached each stage of the purchase journey from viewing a product to completing a purchase in the last 30 days?
@@ -30,10 +36,6 @@ The analysis covers four stages: funnel volume, conversion rates, traffic source
 | product_id     | Identifier for the product involved                    | Integer        |
 | amount         | Transaction value (populated for purchase events)       | Decimal(10,2)  |
 | traffic_source | Channel the user arrived from (organic, paid, social)  | Text           |
-
-
-## Tools Use
-  SQL - MySQL Workbench
 
 
 ## SQL Analysis and Queries
