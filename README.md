@@ -12,10 +12,11 @@ The analysis covers four stages: funnel volume, conversion rates, traffic source
 - Explore the purchase journey of the viewers on the website
 - Answer the business-questions crafted on real world scenario
 
-## Tools Use
+## Tools Used
   SQL - MySQL Workbench
 
-## SQL Skills Used: Joins, CTEs, aggregate functions, CASE statements, window functions, date/time functions, subqueries, and data quality checks.
+## SQL Skills Used 
+Joins, CTEs, aggregate functions, CASE statements, window functions, date/time functions, subqueries, and data quality checks.
 
 
 ## Key Questions Answered
